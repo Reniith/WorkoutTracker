@@ -37,7 +37,7 @@ class WorkoutLog {
     }
 }
 
-public class WorkoutTracker {
+public class FitQuest {
     // ... (Previous code remains unchanged)
     private static Map<String, Map<String, List<Workout>>> preListedWorkouts = new HashMap<>();
 
